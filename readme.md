@@ -1,0 +1,3 @@
+Well this is the fabled toDo list that every aspiring developer must vanquish. I started messing with the Dom with a very basic background changing website. Let's see how this goes! Im excited to learn more about adding, editing and deleting HTML elements using Javascript!  I'll perhaps make a timer of some sorts after this project! 
+
+My end goal is to be job ready by the End of 2021, and I want to be able to create a card game that I can play with my friends. Really excited!

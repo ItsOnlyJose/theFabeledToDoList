@@ -1,0 +1,56 @@
+* {
+    margin: 0; 
+    padding: 0; 
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+    height: 100vh;
+    background:linear-gradient(90deg, white,gray);
+}
+ .toDoList{
+    height: 70vh;
+    width: 70vh;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    border-style: solid;
+    border-color: brown;
+    margin-top: 10vh;
+ }
+
+ .header{
+     height: 5vh;
+     border-style: dotted;
+     border-color: green;
+     margin-top: 1vh;
+ }
+
+ h1 {
+     margin-left: 20rem;
+     padding-top: 10px;
+ }
+
+ .input-area {
+    border-style: dotted;
+    border-color: blue;
+ }
+
+ .toDoItems{
+    border-style: dotted;
+    border-color:purple;
+ }
+
+ .fullList {
+    border-style: dashed;
+    border-color: red;
+ }
+
+ .complete{
+    border-style: dashed;
+    border-color:yellow;
+ }
+
